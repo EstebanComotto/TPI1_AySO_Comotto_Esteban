@@ -1,0 +1,199 @@
+whoami
+pwd
+ssh-keygen -t ed25519
+ls -la
+pwd
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub 
+cd ..
+cd $home
+pwd
+man man
+man cd
+whoami
+clear
+ls -l
+mkdir clase4
+ls -l
+cd clase4/
+pwd
+echo hola mundo
+echo hola mundo > archivo1.txt
+ls -l
+cat archivo1.txt 
+echo hola mundo me gusta la mandarina > archivo1.txt
+cat archivo1.txt 
+echo me gusta la chocolatada >> archivo1.txt 
+cat archivo1.txt 
+cat > archivo2.txt 
+ls-l
+ls -l
+cat archivo2.txt 
+cat archivo1.txt archivo2.txt > archiva4.txt
+ls -l
+cat archiva4.txt 
+mkdir documentos
+ls -l
+cd documentos/
+cd ..
+grep mandarina archivo1.txt 
+vagrant -help
+vagrant -helt
+vagrant helt
+vagrant help
+vagrant halt
+exit
+pwd
+ls -lm
+whoami
+ls -l
+mkdir clase5
+ls -l
+cd clase5
+cd..
+cd ..
+cd clase4
+ls -l
+mkdir facturas pedidos
+les -l
+ls -l
+tree
+snap install tree
+sudo apt install tree
+tree
+sudo snap install tree
+tree
+mkdir clientes -p facturas pedidoos
+tree
+mkdir -p clientes/{facturas,pedidos}
+tree
+mkdir -p {clientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p contactos/{clientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p comotto/contactos/{clientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p comotto_2/{mama,papa}/{hijo1,hijo2,hijo3},{ahijado}
+tree
+rm -r comotto_2
+tree
+mkdir -p comotto_2/{mama,papa}/{hijo1,hijo2,hijo3}
+cd ..
+ls -l
+cd rerpogit
+cd repogit
+ls -l
+git clone git@github.com:EstebanComotto/TPI1_AySO_Comotto_Esteban.git
+vagrant halt
+ls -l
+cd ..
+ls -l
+vagrant halt
+exit
+tree
+ls -m
+cd repogit
+ls -m
+cd TPI1_AySO_Comotto_Esteban/
+ls -m
+cd..
+cd ..
+rm -r repogit/
+ls -m
+rm -rf repogit
+ls -m
+mkdir repogit
+cd repogit
+git clone git@github.com:EstebanComotto/TPI1_AySO_Comotto_Esteban.git
+cd TPI1_AySO_Comotto_Esteban/
+pwd
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i  Home_url /etc/os-release >
+Home_url /etc/os-release >
+grep -i Home_url /etc/os-release > datos_url.txt
+ls -m
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git config --global user.email "comottoesteban@gmail.com"
+git config --global user.name "EstebanComotto"
+git commit -m "ADD: agregado 1er
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+
+
+
+
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+"agregado 1er ejercicio"
+a
+cd
+git bash
+whoami
+pwd
+ls-m
+ls -m
+git add .
+git config --global user.email "comottoesteban@gmail.com"
+git config --global user.name "EstebanComotto"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+snap instal  statttttl tree
+git pushgit push
+git push
+exit
+pwd
+cd repogit
+cd TPI1_AySO_Comotto_Esteban/
+ls -m
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git add .
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU"
+git push
+cat <<EOF >> README.md
+Alumno: Esteban
+División: 211
+Turno: tarde
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p material/{uni1,uni2,uni3} materia2/{uni1,uni2,uni3}
+tree
+echo 'mkdir -p material/{uni1,uni2,uni3} materia2/{uni1,uni2,uni3}' > script_dir.sh
+chmod 755 script_dir.sh
+ls-m
+ls -m
+chmod 755  script_dir.sh
+chmod 764  script_dir.sh
+echo 'mkdir -p material/{uni1,uni2,uni3} materia2/{uni1,uni2,uni3}' > script_dir.sh
+chmod 755  script_dir.sh
+echo "mkdir -p material/{uni1,uni2,uni3} materia2/{uni1,uni2,uni3}" > script_dir.sh
+chmod 755  script_dir.sh
+ls -m
+ls -l
+echo "mkdir -p material/{uni1,uni2,uni3} materia2/{uni1,uni2,uni3}" >script_dir.sh
+ls -l
+rm -r  script_dir.sh
+ls -l
+rm -r  script_dir.sh
+echo "mkdir -p material/{uni1,uni2,uni3} materia2/{uni1,uni2,uni3}" >script_dir.sh
+rm -r  script_dir.sh
+vim
+vim  script_dir.sh
+chmod 755  script_dir.sh
+ls -l
+tree
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
